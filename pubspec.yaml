@@ -27,6 +27,8 @@ dependencies:
   flutter_redux: ^0.5.2
 
 dev_dependencies:
+  test: ^1.6.0
+  mockito: ^4.1.0
   flutter_test:
     sdk: flutter
 
